@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1505421366 source:c:\users\a627843\codeblocks-workspace\curseproyect\simplematrix.c
+	<curses.h>
+
+1216142005 c:\codeblocks\pdcurs34\curses.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+
